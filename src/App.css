@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.btn:not(:first-of-type){
+  margin-left: 5px;
+}
+
+canvas{
+  border: 2px solid grey;
+}
+
+.form-label{
+  margin-top: 10px;
+}
+
+.ArrowRepeat{
+  transform: rotate(50deg);
+}
